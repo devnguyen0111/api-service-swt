@@ -1,0 +1,11 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:20.927Z","msg":"Using New Relic for Node.js. Agent version: 11.1.0; Node version: v18.16.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:21.009Z","msg":"Using AsyncLocalContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:21.040Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:21.051Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:21.051Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:25.623Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:25.623Z","msg":"Connected to collector.newrelic.com:443 with agent run ID BQN3m9z8mQLQAD-gTV4qP8tlG9iIAAgBAAAnIQEAAGgoAgRerBbPAwAGMTEuMS4wAAhBZG1pbi1QQwAUQVBJIFNlY3VyaXR5IHRlc3Rpbmc.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:25.623Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/4169805/applications/1588336335","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:25.624Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":250}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:25.628Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Admin-PC","pid":26664,"time":"2023-10-03T09:00:26.632Z","msg":"Starting initial 1000ms harvest."}
